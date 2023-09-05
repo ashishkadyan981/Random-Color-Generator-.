@@ -11,3 +11,6 @@ document.getElementById("btn").addEventListener("click", getColor);
 
 //initial call
 getColor();
+
+//nothing
+console.log("hii this is ashish kadyan");
