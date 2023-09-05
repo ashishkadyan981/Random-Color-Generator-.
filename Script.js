@@ -11,3 +11,8 @@ document.getElementById("btn").addEventListener("click", getColor);
 
 //initial call
 getColor();
+
+console.log("this is for checking")
+console.log("this is for checking")
+console.log("this is for checking")
+console.log("this is for checking")
